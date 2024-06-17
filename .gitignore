@@ -1,6 +1,7 @@
 .Rproj.user
 .Rhistory
 .RData
+binancer.Rproj
 R/binance_vision_trades.R
 api-tests
 inst/doc
