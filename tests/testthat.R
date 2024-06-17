@@ -1,7 +1,5 @@
 library(testthat)
-library(tidyquant)
-library(tidyverse)
 library(dplyr)
-library(tibble)
+library(lubridate)
 
-test_check("BinanceR")
+test_check("binancer")
