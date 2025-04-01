@@ -1,4 +1,4 @@
-Package: binancer
+Package: socketbinancer
 Type: Package
 Title: Wrapper for Binance REST API in R
 Version: 0.1.0
